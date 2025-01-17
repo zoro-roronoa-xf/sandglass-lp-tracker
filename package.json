@@ -1,0 +1,20 @@
+{
+  "name": "sandglass-lp-token-holder-eclipse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "@pythnetwork/client": "^2.22.0",
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.87.6",
+    "decimal.js": "^10.4.3",
+    "typescript": "^5.4.5"
+  }
+}
